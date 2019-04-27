@@ -32,7 +32,7 @@ Abra outro prompt de comando:
 -------------------------------------------
 IP do servidor: (ex: 192.168.0.104)  
   
-Porta do servidor: (informe a mesma porta do servidor)  
+Porta do servidor: (informe a mesma porta colocada no primeiro prompt)  
   
 Ficara disponivel enviar mensagem pro servidor<br>
 <br>
