@@ -1,13 +1,18 @@
 # sockets-c-windows
-cliente-servidor
+
+## Descrição:</b>
+
+cliente-servidor <br />
 (português-br)
 
-Como executar:
+## Como executar:</b>
 
-cmd <br />
-gcc server.c -o server -l wsock32  <br />
- <br />
-server <br />
+<code>cmd</code><br />
+
+<code><code>gcc server.c -o server -l wsock32  </code><br />
+
+<code>server</code><br />
+
 <br />
 Porta local: (informe uma porta) (exemplo: 5000)
 <br />
