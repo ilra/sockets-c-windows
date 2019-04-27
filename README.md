@@ -2,37 +2,36 @@
 
 ## Descrição:</b>
 
-cliente-servidor <br />
-(português-br)
+cliente-servidor  
+(português-br)  
 
-## Como executar:</b>
+## Como executar:  
 
-<code>cmd</code><br />
+<code>cmd</code>  
 
-<code><code>gcc server.c -o server -l wsock32  </code><br />
+<code>gcc server.c -o server -l wsock32</code>  
 
-<code>server</code><br />
+<code>server</code>  
 
-<br />
-Porta local: (informe uma porta) (exemplo: 5000)
-<br />
-<br />
+Porta local: (informe uma porta) (exemplo: 5000)  
+  
+  
+Abra outro prompt de comando:  
+  
+<code>cmd</code>   
 
-
-Abra outro prompt de comando: <br />
- <br />
-cmd  <br />
-
-gcc client.c -o client -l wsock32 <br />
- <br />
-client <br />
- <br />
-IP do servidor: <br />
-(ex: 192.168.0.104) <br />
-Porta do servidor: (informe a mesma porta do servidor) <br />
- <br />
-Ficara disponivel enviar mensagem pro servidor <br />
- <br />
- <br />
- EXEMPLO: <br />
+<code>gcc client.c -o client -l wsock32</code>   
+  
+<code>client </code>   
+  
+IP do servidor:  
+(ex: 192.168.0.104)  
+  
+Porta do servidor: (informe a mesma porta do servidor)  
+  
+Ficara disponivel enviar mensagem pro servidor  
+  
+  
+ EXEMPLO:  
+   
 ![alt text](https://raw.githubusercontent.com/ilra/sockets-c-windows/master/exemplo.png)
