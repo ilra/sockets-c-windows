@@ -28,3 +28,4 @@ Porta do servidor: (informe a mesma porta do servidor)
 
 Ficara disponivel enviar mensagem pro servidor
 
+![alt text](https://raw.githubusercontent.com/ilra/sockets-c-windows/master/exemplo.png)
