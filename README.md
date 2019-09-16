@@ -30,7 +30,7 @@ Abra outro prompt de comando:
 <code>client </code>
 
 -------------------------------------------
-IP do servidor: (ex: 192.168.001.6)  
+IP do servidor: (ex: 192.168.0.3)  
   
 Porta do servidor: (informe a mesma porta colocada no primeiro prompt)  
   
