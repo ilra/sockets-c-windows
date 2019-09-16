@@ -38,6 +38,6 @@ Ficara disponivel enviar mensagem pro servidor<br>
 <br>
 <br>
 ### EXEMPLO:  
-![alt text](https://raw.githubusercontent.com/ilra/sockets-c-windows/master/exemplo.png)
+![alt text](https://github.com/erikalira/sockets-c-windows/blob/master/exemplo.png?raw=true)
 
 
