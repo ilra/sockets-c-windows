@@ -5,6 +5,8 @@ cliente-servidor  <br>
 (português-br)  <br>
 <br>
 
+FONTE: http://www.professordiovani.com.br/sd/Sockets_cplus.htm
+
 ## Como executar:<br>
 Abra o prompt de comando:
 
