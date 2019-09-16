@@ -1,7 +1,7 @@
 # sockets-c-windows
 
 ## Descrição:</b>
-cliente-servidor  <br>
+cliente-servidor TCP <br>
 (português-br)  <br>
 <br>
 
