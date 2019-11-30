@@ -12,4 +12,4 @@ jobs:
     - name: compilar
       run: gcc server.c -o server -l wsock32
     - name: rodar
-      run: server
+      run: .\server
