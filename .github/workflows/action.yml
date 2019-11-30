@@ -1,0 +1,15 @@
+name: C/C++ CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: [windows-latest]
+    
+    steps:
+    - uses: actions/checkout@v1
+    - name: compilar
+      run: gcc server.c -o server -l wsock32
+    - name: rodar
+      run: server
